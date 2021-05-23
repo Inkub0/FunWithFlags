@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="-30 -30 60 60">
+   <path d="m0-25 6 17 18 0-14 11 5 17-15-10-15 10 5-17-14-11 18 0z"/>
+   <!-- less efficient alternative with polygon
+   <polygon points="0,-25 15,20 -24,-8 24,-8 -15,20" fill-rule="nonzero"/>
+   -->
+</svg>

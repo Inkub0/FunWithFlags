@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 300 200" style="fill:#fff">
+    <path d="M0,0h300v200H0z" fill="#E30A17"/>
+<!-- less efficient but better
+    <circle cx="100" cy="100" r="50" style="fill:#ffffff"/>
+    <circle cx="112.5" cy="100" r="40" style="fill:#E30A17"/> -->
+    <path d="m8.58-5.2a8 8 0 100 10.4a10 10 0 110-10.4z" transform="translate(100,100)scale(5)"/>
+    <path d="m0-25 6 17 18 0-14 11 5 17-15-10-15 10 5-17-14-11 18 0z" transform="translate(165,100)rotate(-18)"/>
+</svg>
