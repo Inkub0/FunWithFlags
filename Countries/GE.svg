@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="600" viewBox="0 0 30 20">
+    <defs>
+        <g id="c">
+            <clipPath id="vclip">
+                <path d="M-10.9 10.4a10.4 10.4 90 000-20.8H10.9a10.4 10.4 90 000 20.8z"/>
+            </clipPath>
+            <path id="varm" d="M-5.5 7.4a5.5 5.5 90 0111 0V-7.4a5.5 5.5 90 01-11 0z" clip-path="url(#vclip)"/>
+            <use xlink:href="#varm" transform="rotate(90)"/>
+        </g>
+    </defs>
+    <path style="fill:#fff" d="M0 0h30v20H0z" />
+    <path d="m13 0 0 8-13 0L0 12l13 0 0 8 4 0 0-8 13 0 0-4-13 0L17 0 13 0z" style="fill:#ff0000"/>
+    <use xlink:href="#c" transform="translate(6.5,4)" fill="red"/>
+    <use xlink:href="#c" transform="translate(23.5,4)" fill="red"/>
+    <use xlink:href="#c" transform="translate(6.5,16)" fill="red"/>
+    <use xlink:href="#c" transform="translate(23.5,16)" fill="red"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="-70 -35 140 70" fill="#CE2028" >
+    <path d="M-70 -35h140v70H-70z"/>
+    <path fill="#F9D616" d="M8.5 5-70-35h21zM-8.5-5 49 35h21zM-8.5 5 49-35h21zM8.5-5-70 35h21zM0 0-70-7v14zM0 0l70-7v14zM0-7.5-7-35h14zM0 7.5l-7 35h14z"/>
+    <circle r="12.5"/>
+    <circle r="10" fill="#F9D616"/>
+</svg>
