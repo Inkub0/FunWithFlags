@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     height="800" width="1200" viewBox="0 0 72 48" fill="#007c2e">
+    <path d="m0 0h72v48h-72z" fill="#fcd022" />
+    <path d="m0 0h18v48h-18z" fill="#002674"/>
+    <path d="m54 0h18v48h-18z"/>
+    <path id="diamond" d="M0-2L1,0L0,2L-1,0z" transform="translate(36,34)scale(4)"/>
+    <use xlink:href="#diamond" x="-5" y="-10" />
+    <use xlink:href="#diamond" x="5" y="-10" />
+</svg>

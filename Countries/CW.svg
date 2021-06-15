@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="600" viewBox="0 0 54 36">
+    <path d="M0,0H54V36H0z" fill="#002b7f"/>
+    <path d="M0,22.5H54V27H0z" fill="#f9e814"/>
+    <path id="s" fill="#fff" d="M0-25L15,20L-24-8L24-8L-15,20" transform="translate(12,12)scale(0.16)"/>
+    <use xlink:href="#s" x="-4" y="-4" transform="scale(0.75)"/>
+</svg>

@@ -1,15 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
      width="2470" height="1300" viewBox="0 0 247 130" fill="#fff">
-    <rect width="247" height="130" fill="#b22234"/>
+    <path d="M0,0H247V130H0z" fill="#b22234"/>
     <path d="M0,15h252v20H-5v20h257v20H-5v20h257v20H-5" fill="none" stroke="#fff" stroke-width="10"/>
-    <path d="M0,15h247M0,35h247M0,55h247M0,75h247M0,95h247M0,115h247" stroke="#fff" stroke-width="10"/>
     <path d="M0,0H98.8V70H0z" fill="#3c3b6e"/>
     <g id="18" transform="translate(9.88,7)">
         <g id="9">
             <g id="5">
                 <g id="4">
-                    <path id="s" d="M0-25L15,20L-24-8L24-8L-15,20"
-                          fill-rule="nonzero" transform="scale(0.18)"/>
+                    <path id="s" d="M0-25L15,20L-24-8L24-8L-15,20" transform="scale(0.18)"/>
                     <use xlink:href="#s" y="14"/>
                     <use xlink:href="#s" y="28"/>
                     <use xlink:href="#s" y="42"/>

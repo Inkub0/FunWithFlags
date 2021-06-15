@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="750" height="500">
+    <defs>
+    </defs>
+    <path d="M750,0H0V500" fill="#009e49"/>
+    <path d="M0,500H750V0" fill="#ce1126"/>
+    <path d="M0,500 750,0" stroke="#fcd116" stroke-width="210"/>
+    <path d="M0,500 750,0" stroke="#000" stroke-width="150"/>
+    <path id="star" d="M0-25L15,20L-24-8L24-8L-15,20" transform="translate(517.5,155)rotate(-33.69)scale(2.6)" fill="#fff" />
+    <use xlink:href="#star" transform="translate(-285,190)"/>
+</svg>
