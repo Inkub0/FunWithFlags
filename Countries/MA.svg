@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="-15 -10 30 20">
+    <path fill="#c1272d" d="m-15-10h30v20H-15Z"/>
+    <path id="star5" fill="none" stroke="#006233" stroke-width="2.857"
+          d="M0-25L15,20L-24-8L24-8L-15,20z" transform="scale(.175)"/>
+</svg>

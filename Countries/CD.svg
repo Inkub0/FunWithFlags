@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" fill="#f7d618">
+    <path fill="#007fff" d="M0,0H800V600H0z" />
+    <path d="M 750,0 0,450 0,600 0,600 50,600 800,150 800,0 750,0" />
+    <path d="M 800,0 0,480 0,600 0,600 0,600 800,120 800,0" style="fill:#ce1021"/>
+    <path id="star5" d="M0-25L15,20L-24-8L24-8L-15,20" transform="translate(146,160)scale(5)"/>
+</svg>
