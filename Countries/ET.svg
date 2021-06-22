@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="600" viewBox="-600 -300 1200 600">
+    <path fill="#da121a" d="M-600 -300h1200v200H-600z"/>
+    <path fill="#fcdd09" d="M-600 -100h1200v200H-600z"/>
+    <path fill="#078930" d="M-600 100h1200v200H-600z"/>
+    <circle r="200" fill="#0f47af"/>
+    <g id="a" transform="scale(1.6)">
+        <path d="M0-96l-4.205849 12.944272 17.347494 53.390097H-9.987258l-2.599358 8h74.162668l11.011056-8H21.553343z" fill="#fcdd09"/>
+        <path d="M25.8625511-35.59674775l30.56483312-42.06888371" stroke="#fcdd09" stroke-width="4"/>
+    </g>
+    <use xlink:href="#a" transform="rotate(72)" width="100%" height="100%"/>
+    <use xlink:href="#a" transform="rotate(144)" width="100%" height="100%"/>
+    <use xlink:href="#a" transform="rotate(-144)" width="100%" height="100%"/>
+    <use xlink:href="#a" transform="rotate(-72)" width="100%" height="100%"/>
+</svg>

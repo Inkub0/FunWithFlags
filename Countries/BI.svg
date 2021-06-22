@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1000" height="600" viewBox="-50 -30 100 60" fill="#ce1126">
+    <path d="m-50-30H50v60H-50z"/>
+    <path d="m-50-30L0,00L-50,30z M50,30L0,0L50,-30z" fill="#1eb53a"/>
+    <path d="M-50,-30L50,30M50-30L-50,30" stroke="#fff" stroke-width="8"/>
+    <circle fill="#fff" r="17"/>
+    <path  stroke="#1eb53a" stroke-width=".36" id="s" d="m1.05-10.62h2.1L2.1-8.8l1.05 1.82h-2.1L0-5.16-1.05-6.98h-2.1L-2.1-8.8l-1.05-1.82h2.1L0-12.44z"/>
+    <use x="-7.62" y="13.2" xlink:href="#s"/>
+    <use x="7.62" y="13.2" xlink:href="#s"/>
+</svg>

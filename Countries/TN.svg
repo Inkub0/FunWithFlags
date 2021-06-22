@@ -1,0 +1,8 @@
+<svg width="1200" height="800" viewBox="-60 -40 120 80" xmlns="http://www.w3.org/2000/svg" fill="#e70013">
+    <path d="M-60-40H60v80H-60z"/>
+    <circle fill="#fff" r="20"/>
+    <circle r="15"/>
+    <circle fill="#fff" cx="4" r="12"/>
+    <path id="star5" d="M0-25L15,20L-24-8L24-8L-15,20"
+          transform="translate(4,0)scale(.36)rotate(-18)"/>
+</svg>

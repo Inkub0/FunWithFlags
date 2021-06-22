@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="600" viewBox="0 0 500 300" fill="#FFF">
+    <rect fill="#3A75C4" width="500" height="300"/>
+    <rect fill="#CE1126" width="500" height="225"/>
+    <rect fill="#FFF" width="500" height="150"/>
+    <rect fill="#FFC61E" width="500" height="75"/>
+    <path fill="#3D8E33" d="M0,300l250-150L0,0V300z"/>
+    <circle cx="85" cy="150" r="67.5"/>
+    <circle fill="#3D8E33" cx="115" cy="150" r="67.5"/>
+    <path id="star5" d="M0-25L15,20L-24-8L24-8L-15,20" transform="translate(100,102)scale(.5)"/>
+    <use xlink:href="#star" y="32.2083"/>
+    <use xlink:href="#star" y="64.4166"/>
+    <use xlink:href="#star" y="96.625"/>
+</svg>

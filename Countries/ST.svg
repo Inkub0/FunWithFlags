@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1400" height="700" viewBox="0 0 28 14">
+    <path d="M0,0H28v14H0z" fill="#12ad2b"/>
+    <path d="M0,4H28v6H0z"  fill="#ffce00"/>
+    <path d="M0,0v14L7,7z" fill="#d21034"/>
+    <path id="star5" d="M0-25L15,20L-24-8L24-8L-15,20"
+          transform="translate(14,7)scale(0.08)"/>
+    <use xlink:href="#star5" x="7"/>
+</svg>
