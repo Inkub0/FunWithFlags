@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="700" viewBox="0 0 33 21">
     <path fill="#0072ce" d="M0 0h33v7H0z"/>
-    <path d="M0 7h33v7H0z" />
     <path fill="#fff" d="M0 14h33v7H0z"/>
+    <path d="M0 7h33v7H0z" />
 </svg>
