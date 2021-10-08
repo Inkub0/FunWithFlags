@@ -1,19 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="600">
-    <defs>
-        <clipPath id="b">
-            <path d="M0 0h600v300H0z"/>
-        </clipPath>
-        <clipPath id="c">
-            <path d="M0 0l300 150H0zm300 0h300L300 150zm0 150h300v150zm0 0v150H0z"/>
-        </clipPath>
-        <path id="star5" d="M0-25L15,20L-24-8L24-8L-15,20" transform="scale(.04)"/>
-    </defs>
-    <path fill="#012169" d="M0 0h1200v600H0z"/>
-    <path stroke="#FFF" stroke-width="60" d="M0 0l600 300M0 300L600 0" clip-path="url(#b)"/>
-    <path stroke="#C8102E" stroke-width="40" d="M0 0l600 300M0 300L600 0" clip-path="url(#c)"/>
-    <path stroke="#FFF" stroke-width="100" d="M300 0v300M0 150h600" clip-path="url(#b)"/>
-    <path stroke="#C8102E" stroke-width="60" d="M300 0v300M0 150h600" clip-path="url(#b)"/>
-    <g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="300" viewBox="0 0 120 60">
+    <clipPath id="t">
+        <path d="M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z"/>
+    </clipPath>
+    <path id="s" d="M0-25L15,20L-24-8L24-8L-15,20" fill="#fedd00" transform="scale(.1)"/>
+    <path d="M0,0 v31 h61 v-31z" fill="#012169"/>
+    <path d="M0,0 L60,30 M60,0 L0,30" stroke="#fff" stroke-width="6"/>
+    <path d="M0,0 L60,30 M60,0 L0,30" clip-path="url(#t)" stroke="#C8102E" stroke-width="4"/>
+    <path d="M30,0 v30 M0,15 h60" stroke="#fff" stroke-width="10"/>
+    <path d="M30,0 v30 M0,15 h60" stroke="#C8102E" stroke-width="6"/>
+    <path d="M60,0h60V60H0V30H60z" fill="#012169"/>
+    <path id="star5" d="M0-25L15,20L-24-8L24-8L-15,20" transform="scale(.04)"/>
+    <g transform="scale(0.1)">
         <use fill="#FFF" transform="matrix(45.4 0 0 45.4 900 120)" xlink:href="#star5"/>
         <use fill="#C8102E" transform="matrix(30 0 0 30 900 120)" xlink:href="#star5"/>
         <g transform="rotate(82 900 240)">

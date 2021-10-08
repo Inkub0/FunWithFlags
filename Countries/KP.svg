@@ -3,6 +3,6 @@
     <path fill="#fff"  d="M0,6H72v24H0z"/>
     <path d="M0,7H72V29H0z"/>
     <circle fill="#fff" cx="24" cy="18" r="8"/>
-    <path d="M0-25L15,20L-24-8L24-8L-15,20" fill-rule="nonzero"
+    <path d="M0-25L15,20L-24-8L24-8L-15,20"
           transform="translate(24,18)scale(0.3)" />
 </svg>

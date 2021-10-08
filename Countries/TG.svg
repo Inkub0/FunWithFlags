@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="150" height="100">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 150 100">
     <path d="M0,0h150v100H0z" fill="#006a4e"/>
     <path stroke="#ffce00" d="M0,30h150 M0,70h150" stroke-width="20"/>
-    <rect width="60" height="60" fill="#d21034"/>
+    <path d="M0,0H60V60H0z" fill="#d21034"/>
     <path id="star5" fill="#fff" d="M0-25L15,20L-24-8L24-8L-15,20"
           transform="translate(30,30)scale(0.76)"/>
 </svg>

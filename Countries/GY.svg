@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600">
     <path fill="#009e49" d="M0 0h1000v600H0z"/>
-    <path d="M0 0l1000 300L0 600z" fill="#fff"/>
-    <path d="M0 26l912 274L0 574z" fill="#fcd116"/>
+    <path fill="#fff" d="M0 0l1000 300L0 600z"/>
+    <path fill="#fcd116" d="M0 26l912 274L0 574z"/>
     <path d="M0 0l500 300L0 600z"/>
-    <path d="M0 35l442 265L0 565z" fill="#ce1126"/>
+    <path fill="#ce1126" d="M0 35l442 265L0 565z"/>
 </svg>

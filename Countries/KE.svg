@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="600">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="900" height="600">
     <defs>
         <path id="spearshape" d="M-1,55.4256258422h2V-38C3,-40 3,-43 3,-46C3,-48 3,-56 0,-64.6632301492C-3,-56 -3,-48 -3,-46C-3,-43 -3,-40 -1,-38z" stroke-miterlimit="10" transform="rotate(30)"/>
         <!-- 32*sqrt(3), -112/sqrt(3)-->
     </defs>
-    <rect width="900" height="600" fill="#fff"/>
-    <rect width="900" height="180" fill="#000"/>
+    <path d="M0 0H900V600H0z" fill="#060"/>
+    <path d="M0 0H900V420H0z" fill="#fff"/>
+    <path d="M0 0H900V180H0z" />
     <rect width="900" height="180" y="210" fill="#b00"/>
-    <rect width="900" height="180" y="420" fill="#060"/>
     <g transform="translate(450,300) scale(3.75)">
         <g id="spear">
             <use xlink:href="#spearshape" fill="#000"/>

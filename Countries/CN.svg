@@ -1,12 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
      width="900" height="600" viewBox="0 0 30 20">
-    <defs>
-        <path id="s" d="m0-25 6 17 18 0-14 11 5 17-15-10-15 10 5-17-14-11 18 0z" fill="#FFFF00" transform="scale(.04)"/>
-    </defs>
-    <path d="M0,0H30V20H0z" fill="#EE1C25"/>
-    <use xlink:href="#s" transform="translate(5,5) scale(3)"/>
-    <use xlink:href="#s" transform="translate(10,2) rotate(23.036243)"/>
-    <use xlink:href="#s" transform="translate(12,4) rotate(45.869898)"/>
-    <use xlink:href="#s" transform="translate(12,7) rotate(69.945396)"/>
-    <use xlink:href="#s" transform="translate(10,9) rotate(20.659808)"/>
+    <path id="s" d="M0-25L15,20L-24-8L24-8L-15,20" fill="#FDDA25" transform="scale(.04)"/>
+    <path d="M0,0H30V20H0z" fill="#C8102E"/>
+    <use xlink:href="#s" transform="translate(5,5)scale(3)"/>
+    <use xlink:href="#s" transform="translate(10,2)rotate(23)"/>
+    <use xlink:href="#s" transform="translate(12,4)rotate(46)"/>
+    <use xlink:href="#s" transform="translate(12,7)rotate(70)"/>
+    <use xlink:href="#s" transform="translate(10,9)rotate(21)"/>
 </svg>
