@@ -4,7 +4,7 @@
     </pattern>
     <path fill="#3A75C4" d="M0 0H500V300H0z"/>
     <path fill="#CE1126" d="M0 0H500V225H0z"/>
-    <path fill="#FFF" d="M0 0H500V150H0z"/>
+    <path d="M0 0H500V150H0z"/>
     <rect fill="#FFC61E" width="500" height="75"/>
     <path fill="#3D8E33" d="M0,300l250-150L0,0V300z"/>
     <circle cx="85" cy="150" r="67.5"/>

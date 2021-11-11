@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="600" fill="#fcd116" viewBox="0 0 180 90">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1200" height="600" fill="#fcd116" viewBox="0 0 180 90">
     <path id="s" d="m0-25 15 45-39-28h48l-39 28"/>
     <path fill="#ce1126" d="M0 0h180v90H0z"/>
     <path fill="#0038a8" d="M0 0h180v45H0z"/>

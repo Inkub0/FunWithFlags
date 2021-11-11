@@ -1,20 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="900">
-    <defs>
-        <g id="b">
-            <g id="a">
-                <path d="M1 0H0v.5z" transform="translate(0 -.32493)"/>
-                <path d="M1 0H0v-.5z" transform="rotate(-36 .5 -.16246)"/>
-            </g>
-            <use transform="rotate(72)" xlink:href="#a"/>
-            <use transform="rotate(144)" xlink:href="#a"/>
-            <use transform="rotate(216)" xlink:href="#a"/>
-            <use transform="rotate(288)" xlink:href="#a"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1800" height="900">
+    <g id="b">
+        <g id="a">
+            <path d="M1 0H0v.5z" transform="translate(0 -.325)"/>
+            <path d="M1 0H0v-.5z" transform="rotate(-36 .5 -.1625)"/>
         </g>
-    </defs>
-    <path fill="#012169" d="M0 0h1800v900H0z"/>
-    <g fill="#ffd100">
-        <path d="M329.37609 777.2654c-17.93436-.14984 168.62343-99.43136 324.76914-226.59977C858.78891 383.99945 1299.541 117.15633 1429.1161 73.7954c13.5433-4.53215-27.7761 23.07308-33.14 32.01541-138.3415 163.74043-27.925 472.72379 144.9726 628.04829 51.99 39.7632 49.3274 41.85082 145.7074 45.7463v9l-1357.28001-11.34zM318.12503 795.3246s-13.16343 9.4029-13.12495 16.4061c.043 7.7725 14.76557 18.0468 14.76557 18.0468l1338.74505 14.7656 24.6093-16.4062-34.453-21.328-1330.54197-11.4843z"/>
+        <use transform="rotate(72)" xlink:href="#a"/>
+        <use transform="rotate(144)" xlink:href="#a"/>
+        <use transform="rotate(216)" xlink:href="#a"/>
+        <use transform="rotate(288)" xlink:href="#a"/>
     </g>
+    <path fill="#012169" d="M0 0h1800v900H0z"/>
+    <path fill="#ffd100" d="m329.38 777.27c529.41-393.27 970.16-660.11 1099.74-703.47c13.54-4.53-11.12 7.2-33.14 32.02c-138.34 163.74-27.93 472.72 144.97 628.05c51.99 39.76 49.33 41.85 145.71 45.75v9l-1357.28-11.34zm-11.25 18.05s-13.16 9.4-13.13 16.41c.04 7.77 14.77 18.05 14.77 18.05l1338.74 14.77 24.61-16.41-34.45-21.33-1330.54-11.48z"/>
+
     <g fill="#fff">
         <use transform="matrix(45 0 0 45 342.9565 112.5812)" xlink:href="#b"/>
         <use transform="matrix(37.5 0 0 37.5 521.20459 267.53)" xlink:href="#b"/>

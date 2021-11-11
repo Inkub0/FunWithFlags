@@ -1,7 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="600" viewBox="-450 -228 900 600" fill="#ce1126">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="600"
+     fill="#ce1126" viewBox="-450 -228 900 600">
     <path fill="#000" d="M-450-228h900v600h-900z"/>
     <circle r="129"/>
-    <path id="a" d="M0 0c-4 0-6 6.5-6 13 0 16 2 23 6 47 4-24 6-32 6-47C6 6.5 4 0 0 0z" transform="translate(0 -204)"/>
+    <path id="a" d="M0 0c-4 0-6 6-6 13c0 16 2 23 6 47c4-24 6-32 6-47C6 6 4 0 0 0z" transform="translate(0 -204)"/>
     <g id="c">
         <g id="b">
             <use xlink:href="#a" transform="rotate(5)"/>
