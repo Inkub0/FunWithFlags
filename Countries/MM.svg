@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="800" viewBox="0 0 18 12">
-    <rect width="18" height="12" fill="#FECB00"/>
-    <rect width="18" height="8" y="4" fill="#34B233"/>
-    <rect width="18" height="4" y="8" fill="#EA2839"/>
-    <path d="M0-25L15,20L-24-8L24-8L-15,20" fill="#fff"
-          transform="translate(9,6.422)scale(.18)" fill-rule="nonzero"/>
-</svg>

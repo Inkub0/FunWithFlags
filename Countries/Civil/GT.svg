@@ -4,16 +4,16 @@
             <stop stop-color="#f9f0aa" offset=".216"/>
             <stop stop-color="#b07e09" offset="1"/>
         </radialGradient>
-        <radialGradient id="d" xlink:href="#a" gradientUnits="userSpaceOnUse" cx="447.418" cy="308.269" r="16.534"/>
-        <radialGradient id="e" xlink:href="#a" gradientUnits="userSpaceOnUse" cx="451.558" cy="312.995" r="10.911"/>
-        <radialGradient id="f" xlink:href="#a" gradientUnits="userSpaceOnUse" cx="454.11" cy="308.643" r="9.78"/>
-        <radialGradient id="g" xlink:href="#a" gradientUnits="userSpaceOnUse" cx="458.39" cy="307.057" r="17.354"/>
-        <radialGradient id="j" xlink:href="#a" gradientUnits="userSpaceOnUse" cx="445.976" cy="252.363" r="13.018"/>
-        <radialGradient id="m" gradientUnits="userSpaceOnUse" cx="477.858" cy="215.266" r=".345">
+        <radialGradient id="d" xlink:href="#a" cx="447.418" cy="308.269" r="16.534"/>
+        <radialGradient id="e" xlink:href="#a" cx="451.558" cy="312.995" r="10.911"/>
+        <radialGradient id="f" xlink:href="#a" cx="454.11" cy="308.643" r="9.78"/>
+        <radialGradient id="g" xlink:href="#a" cx="458.39" cy="307.057" r="17.354"/>
+        <radialGradient id="j" xlink:href="#a" cx="445.976" cy="252.363" r="13.018"/>
+        <radialGradient id="m" cx="477.858" cy="215.266" r=".345">
             <stop stop-color="#a50a0a" offset=".259"/>
             <stop stop-color="#4c0505" offset="1"/>
         </radialGradient>
-        <radialGradient id="n" gradientTransform="scale(.97707 1.02346)" cx="489.072" cy="210.326" fx="489.072" fy="210.326" r=".345" gradientUnits="userSpaceOnUse">
+        <radialGradient id="n" gradientTransform="scale(.97707 1.02346)" cx="489.072" cy="210.326" fx="489.072" fy="210.326" r=".345" >
             <stop stop-color="#fff" offset="0"/>
             <stop stop-color="#fff" stop-opacity="0" offset="1"/>
         </radialGradient>
