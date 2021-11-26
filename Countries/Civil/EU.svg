@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
      width="810" height="540" viewBox="-13.5 -9 27 18" fill="#fc0">
-    <path id="s" d="M0-25L15,20L-24-8L24-8L-15,20" transform="scale(.04)"/>
+    <path id="s" d="M0-1 .6.8-.96-.32.96-.32-.6.8"/>
     <path fill="#039" d="M-13.5-9h27v18h-27Z"/>
     <use xlink:href="#s" y="-6"/>
     <use xlink:href="#s" y="6"/>
