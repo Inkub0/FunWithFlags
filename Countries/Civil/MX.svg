@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 980 560">
     <defs>
-        <radialGradient id="b" cx="842.31" cy="103.66" r="25.859" gradientTransform="matrix(.18574 .04718 -.04532 .18635 233.798 198.77)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
-        <radialGradient id="c" cx="651.52" cy="550.46" r="25.859" gradientTransform="matrix(-.17642 -.07067 .06515 -.16392 430.544 377.876)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
-        <radialGradient id="d" cx="380.84" cy="740.37" r="25.859" gradientTransform="matrix(.0989 .0037 -.0045 .1943 442.362 123.304)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+        <radialGradient id="b" cx="842.31" cy="103.66" r="25.859" gradientTransform="matrix(.18574 .04718 -.04532 .18635 233.798 198.77)" xlink:href="#a"/>
+        <radialGradient id="c" cx="651.52" cy="550.46" r="25.859" gradientTransform="matrix(-.17642 -.07067 .06515 -.16392 430.544 377.876)" xlink:href="#a"/>
+        <radialGradient id="d" cx="380.84" cy="740.37" r="25.859" gradientTransform="matrix(.0989 .0037 -.0045 .1943 442.362 123.304)" xlink:href="#a"/>
         <linearGradient id="a">
             <stop offset="0" stop-color="#fff"/>
             <stop offset="1" stop-color="#f15770"/>

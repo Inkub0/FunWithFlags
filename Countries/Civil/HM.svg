@@ -28,5 +28,5 @@
     <use xlink:href="#S7" x="3000" y="1050"/>
     <use xlink:href="#S7" x="4133" y="890"/>
     <path d="M0-250L150,200L-240-80L240-80L-150,200"
-          transform="translate(3840,1300)scale(0.4)" fill-rule="nonzero"/>
+          transform="translate(3840,1300)scale(0.4)"/>
 </svg>
