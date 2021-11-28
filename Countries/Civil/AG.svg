@@ -5,7 +5,8 @@
         <g id="b">
             <path id="a" d="M-30 0L0-5.742V5.742z" fill="#fcd116"/>
             <use xlink:href="#a" transform="rotate(22.5)"/>
-            <use xlink:href="#a" transform="rotate(45)"/></g>
+            <use xlink:href="#a" transform="rotate(45)"/>
+        </g>
         <use xlink:href="#b" transform="rotate(67.5)"/>
         <use xlink:href="#b" transform="rotate(135)"/>
     </g>

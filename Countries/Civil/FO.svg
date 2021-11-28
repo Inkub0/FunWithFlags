@@ -1,11 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="800" viewBox="0 0 22 16">
-    <rect fill="#FFF" width="22" height="16"/>
-    <g fill="#0065BD">
-        <rect x="6" width="4" height="16"/>
-        <rect y="6" width="22" height="4"/>
-    </g>
-    <g fill="#ED2939">
-        <rect x="7" width="2" height="16"/>
-        <rect y="7" width="22" height="2"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="660" viewBox="0 0 22 16">
+    <path fill="#fff" d="M0 0H22V16H0z"/>
+    <path fill="#0065BD" d="M0 6H6V0h4v6h12v4H10v6H6V10H0z"/>
+    <path fill="#ED2939" d="M0 7H7V0h2v7h13v2H9v7H7V9H0z"/>
 </svg>

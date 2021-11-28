@@ -1,29 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="300" viewBox="0 0 120 60">
-    <clipPath id="t">
-        <path d="M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z"/>
-    </clipPath>
-    <path id="s" d="M0-25L15,20L-24-8L24-8L-15,20" fill="#fedd00" transform="scale(.1)"/>
-    <path d="M0,0 v31 h61 v-31z" fill="#012169"/>
-    <path d="M0,0 L60,30 M60,0 L0,30" stroke="#fff" stroke-width="6"/>
-    <path d="M0,0 L60,30 M60,0 L0,30" clip-path="url(#t)" stroke="#C8102E" stroke-width="4"/>
-    <path d="M30,0 v30 M0,15 h60" stroke="#fff" stroke-width="10"/>
-    <path d="M30,0 v30 M0,15 h60" stroke="#C8102E" stroke-width="6"/>
-    <path d="M60,0h60V60H0V30H60z" fill="#012169"/>
-    <path id="star5" d="M0-25L15,20L-24-8L24-8L-15,20" transform="scale(.04)"/>
-    <g transform="scale(0.1)">
-        <use fill="#FFF" transform="matrix(45.4 0 0 45.4 900 120)" xlink:href="#star5"/>
-        <use fill="#C8102E" transform="matrix(30 0 0 30 900 120)" xlink:href="#star5"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="600" fill="#fff" viewBox="0 0 960 480">
+    <path id="S" d="M0-25L15,20L-24-8L24-8L-15,20" transform="scale(.04)"/>
+    <clipPath id="b"><path d="M0 0v30h60V0Z"/></clipPath>
+    <clipPath id="a"><path d="M30 15h30v15Zv15H0ZH0V0ZV0h30Z"/></clipPath>
+    <path fill="#012169" d="M0 0h920v480H0z"/>
+    <g clip-path="url(#b)" transform="scale(8)">
+        <path stroke="#fff" stroke-width="6" d="m0 0 60 30m0-30L0 30"/>
+        <path stroke="#C8102E" stroke-width="4" d="m0 0 60 30m0-30L0 30" clip-path="url(#a)"/>
+        <path fill="#fff" d="M25 0v10H0v10h25v12h10V20h25V10H35V0z"/>
+        <path fill="#C8102E" d="M27 0v12H0v6h27v12h6V18h27v-6H33V0z"/>
+    </g>
+    <g transform="scale(.75)">
+        <use fill="#FFF" transform="matrix(45.4 0 0 45.4 900 120)" xlink:href="#S"/>
+        <use fill="#C8102E" transform="matrix(30 0 0 30 900 120)" xlink:href="#S"/>
         <g transform="rotate(82 900 240)">
-            <use fill="#FFF" transform="rotate(-82 519.0221 -457.6658) scale(40.4)" xlink:href="#star5"/>
-            <use fill="#C8102E" transform="rotate(-82 519.0221 -457.6658) scale(25)" xlink:href="#star5"/>
+            <use fill="#FFF" transform="rotate(-82 519.0221 -457.6658) scale(40.4)" xlink:href="#S"/>
+            <use fill="#C8102E" transform="rotate(-82 519.0221 -457.6658) scale(25)" xlink:href="#S"/>
         </g>
         <g transform="rotate(82 900 240)">
-            <use fill="#FFF" transform="rotate(-82 668.57 -327.6658) scale(45.4)" xlink:href="#star5"/>
-            <use fill="#C8102E" transform="rotate(-82 668.57 -327.6658) scale(30)" xlink:href="#star5"/>
+            <use fill="#FFF" transform="rotate(-82 668.57 -327.6658) scale(45.4)" xlink:href="#S"/>
+            <use fill="#C8102E" transform="rotate(-82 668.57 -327.6658) scale(30)" xlink:href="#S"/>
         </g>
         <g>
-            <use fill="#FFF" transform="matrix(50.4 0 0 50.4 900 480)" xlink:href="#star5"/>
-            <use fill="#C8102E" transform="matrix(35 0 0 35 900 480)" xlink:href="#star5"/>
+            <use fill="#FFF" transform="matrix(50.4 0 0 50.4 900 480)" xlink:href="#S"/>
+            <use fill="#C8102E" transform="matrix(35 0 0 35 900 480)" xlink:href="#S"/>
         </g>
     </g>
 </svg>

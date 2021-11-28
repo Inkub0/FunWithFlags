@@ -5,8 +5,8 @@
     <path d="M0 170h1000v160H0z"/>
     <circle cx="140" cy="80" r="60"/>
     <circle cx="160" cy="80" r="50" fill="#0099b5"/>
-    <pattern id="t" x="8" y="32" width="48" height="46" patternUnits="userSpaceOnUse">
-        <path id="s" d="M0-25L15,20L-24-8L24-8L-15,20" transform="scale(.5)"/>
+    <pattern id="t" x="40" y="20" width="48" height="46" patternUnits="userSpaceOnUse">
+        <path id="s" d="M25 0 40 45 1 17 49 17 10 45" transform="scale(.5)"/>
     </pattern>
     <path fill="url(#t)" d="M185 110h30V60h50V15h140v130h-250"/>
 </svg>
