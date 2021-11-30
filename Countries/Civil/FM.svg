@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="760" height="400" viewBox="-19 -10 38 20">
     <path fill="#75b2dd" d="M-19-10H38v20H-19z"/>
-    <path fill="#fff" id="star5" d="M0-25L15,20L-24-8L24-8L-15,20" transform="translate(0,-6)scale(0.08)" />
-    <use xlink:href="#star5" transform="rotate(90)"/>
-    <use xlink:href="#star5" transform="rotate(180)"/>
-    <use xlink:href="#star5" transform="rotate(270)"/>
+    <path fill="#fff" id="s" d="M0-25L15,20L-24-8L24-8L-15,20" transform="translate(0,-6)scale(0.08)" />
+    <use xlink:href="#s" transform="rotate(90)"/>
+    <use xlink:href="#s" transform="rotate(180)"/>
+    <use xlink:href="#s" transform="rotate(270)"/>
 </svg>
