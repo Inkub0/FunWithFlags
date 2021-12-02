@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="800" height="500" fill="#fff" viewBox="0 0 1900 1000">
-    <pattern id="t" x="-31.5" y="-27" width="126" height="108" patternUnits="userSpaceOnUse">
-        <path id="s" d="M25 0 40 45 1 17 49 17 10 45" transform="scale(1.232)"/>
+     width="950" height="500" fill="#b22234" viewBox="0 0 1900 1000">
+    <pattern id="p" fill="#fff" x="-32" y="-27" width="126" height="108" patternUnits="userSpaceOnUse">
+        <path id="s" d="M30 0 48 54 1.2 20.4H58.8L12 54"/>
         <use xlink:href="#s" transform="translate(63 54)"/>
     </pattern>
-    <path fill="#b22234" d="M0 0H1900V1000H0z"/>
-    <path fill="none" d="M0 115.35h2000v153.8H-100v153.8h2100v153.8H-100v153.8h2100v153.8H0" stroke="#fff" stroke-width="76.9"/>
-    <path fill="#3c3b6e" d="M0 0h760v538.5H0z"/>
-    <path fill="url(#t)" d="M31.5 28h693v486H31.5z"/>
+    <path d="M0 0h1900v1000H0z"/>
+    <path stroke="#fff" stroke-width="76.9" d="M0 115h2000v154H-100v154h2100v154H-100v154h2100v153H0"/>
+    <path fill="#3c3b6e" d="M0 0h760v539H0z"/>
+    <path fill="url(#p)" d="M31 27h693v486H31z"/>
 </svg>
