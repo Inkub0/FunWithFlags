@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="600" fill="#fff" viewBox="0 0 960 480">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="960" height="480" fill="#fff" viewBox="0 0 960 480">
     <clipPath id="b"><path d="M0 0v30h60V0Z"/></clipPath>
     <clipPath id="a"><path d="M30 15h30v15Zv15H0ZH0V0ZV0h30Z"/></clipPath>
     <path id="S" d="m0-100 18 64 60-26L39-9l59 31-67 3 13 65L0 40l-44 50 13-65-67-3 59-31-39-53 60 26Z"/>
     <use xlink:href="#S" id="d" transform="scale(.72)"/>
     <use xlink:href="#S" id="e" transform="scale(.34286)"/>
-    <path fill="#012169" d="M0 0h920v480H0z"/>
+    <path fill="#012169" d="M0 0h960v480H0z"/>
     <g clip-path="url(#b)" transform="scale(8)">
         <path stroke="#fff" stroke-width="6" d="m0 0 60 30m0-30L0 30"/>
         <path stroke="#C8102E" stroke-width="4" d="m0 0 60 30m0-30L0 30" clip-path="url(#a)"/>
