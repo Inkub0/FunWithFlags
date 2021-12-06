@@ -1,19 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1406" height="1206" viewBox="-603.25 -703.25 1206.25 1406.25">
-    <g id="cast">
-        <rect width="185" height="16" x="-92.5" y="84" fill="#ff0" stroke="#000" stroke-width="5" rx="7" ry="8"/>
-        <path fill="#ff0" stroke="#000" stroke-width="5" d="M-83 84H83l-8-65H-77l-8 65z"/>
-        <path fill="#ff0" stroke="#000" stroke-width="5" d="M-42 84A63 65 0 010 19a63 65 0 0142 65z"/>
-        <path fill="#ff0" stroke="#000" stroke-width="5" d="M-24 84A36 43 0 010 41a36 43 0 0124 43z"/>
-        <rect width="170" height="14" x="-85" y="5" fill="#ff0" stroke="#000" stroke-width="5" rx="7" ry="8"/>
-        <rect width="177" height="14" x="-88.5" y="-9" fill="#ff0" stroke="#000" stroke-width="5" rx="7" ry="8"/>
-        <path fill="#ff0" stroke="#000" stroke-width="5"
-              d="M-76-9h42l-1-35h-40z M34-9h42l-1-35H35z M-21-9h42l-2.5-65h-37z" />
-        <path fill="#ff0" stroke="#000" stroke-width="5"
-              d="M-82-70h12v9h9v-9h12v9h9v-9h12v20a5 6 0 01-5 6h-44a5 6 0 01-5-6z"/>
-        <path fill="#ff0" stroke="#000" stroke-width="5"
-              d="M-28-100h12v9h9v-9H5v9h9v-9h12v20a5 6 0 01-5 6h-44a5 6 0 01-5-6z" />
-        <path fill="#ff0" stroke="#000" stroke-width="5"
-              d="M28-70h12v9h9v-9h12v9h9v-9h12v20a5 6 0 01-5 6H33a5 6 0 01-5-6z" />
+    <g id="cast" fill="#ff0" stroke="#000" stroke-width="5">
+        <path id="c" d="M 0 20 L -77 21 M -77 6 L 0 6 M 0 42 A 36 43 0 0 0 -24 86 L -85 86 M 0 20 A 63 65 0 0 0 -42 86 L -85 86 L -77 21
+        M 0 102 L -85 102 A 1 1 0 0 1 -85 86 L -77 21 L -77 21 A 1 1 0 0 1 -77 6 L -80 6 A 1 1 0 0 1 -80 -8 L 0 -8"/>
+        <use xlink:href="#c" transform="scale(-1,1)"/>
+        <path d="M-76-9h42l-1-35h-40z M34-9h42l-1-35H35z M-21-9h42l-2.5-65h-37z" />
+        <path d="M-82-70h12v9h9v-9h12v9h9v-9h12v20a5 6 0 01-5 6h-44a5 6 0 01-5-6z"/>
+        <path d="M-28-100h12v9h9v-9H5v9h9v-9h12v20a5 6 0 01-5 6h-44a5 6 0 01-5-6z" />
+        <path d="M28-70h12v9h9v-9h12v9h9v-9h12v20a5 6 0 01-5 6H33a5 6 0 01-5-6z" />
         <path d="M51-19h8v-13a4 4 0 00-8 0z M-4-39h8v-13a4 4 0 00-8 0z M-59-19h8v-13a4 4 0 00-8 0z" fill="#000"/>
     </g>
 
