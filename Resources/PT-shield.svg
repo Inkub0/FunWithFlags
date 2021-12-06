@@ -1,40 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1406" height="1206" viewBox="-603.25 -703.25 1206.25 1406.25">
-    <g id="cast" fill="#ff0" stroke="#000" stroke-width="5">
-        <path id="c" d="M 0 20 L -77 21 M -77 6 L 0 6 M 0 42 A 36 43 0 0 0 -24 86 L -85 86 M 0 20 A 63 65 0 0 0 -42 86 L -85 86 L -77 21
-        M 0 102 L -85 102 A 1 1 0 0 1 -85 86 L -77 21 L -77 21 A 1 1 0 0 1 -77 6 L -80 6 A 1 1 0 0 1 -80 -8 L 0 -8"/>
+    <g id="k" fill="#ff0" stroke="#000" stroke-width="5">
+        <path id="c" d="M0 20-77 21M-77 6 0 6M0 42A36 43 0 00-24 86L-85 86M0 20A63 65 0 00-42 86L-85 86-77 21
+        M0 102-85 102A1 1 0 01-85 86L-77 21-77 21A1 1 0 01-77 6L-80 6A1 1 0 01-80-8L0-8"/>
         <use xlink:href="#c" transform="scale(-1,1)"/>
-        <path d="M-76-9h42l-1-35h-40z M34-9h42l-1-35H35z M-21-9h42l-2.5-65h-37z" />
-        <path d="M-82-70h12v9h9v-9h12v9h9v-9h12v20a5 6 0 01-5 6h-44a5 6 0 01-5-6z"/>
-        <path d="M-28-100h12v9h9v-9H5v9h9v-9h12v20a5 6 0 01-5 6h-44a5 6 0 01-5-6z" />
-        <path d="M28-70h12v9h9v-9h12v9h9v-9h12v20a5 6 0 01-5 6H33a5 6 0 01-5-6z" />
+        <path d="M-76-9h42l-1-35h-40z M34-9h42l-1-35H35z M-21-9h42l-2.5-65h-37z
+        M-82-70h12v9h9v-9h12v9h9v-9h12v20a5 6 0 01-5 6h-44a5 6 0 01-5-6z
+        M-28-100h12v9h9v-9H5v9h9v-9h12v20a5 6 0 01-5 6h-44a5 6 0 01-5-6z
+        M28-70h12v9h9v-9h12v9h9v-9h12v20a5 6 0 01-5 6H33a5 6 0 01-5-6z" />
         <path d="M51-19h8v-13a4 4 0 00-8 0z M-4-39h8v-13a4 4 0 00-8 0z M-59-19h8v-13a4 4 0 00-8 0z" fill="#000"/>
     </g>
+    
+    <path stroke="#000" fill="#fff" stroke-width="6.5" d="M-600-700H600v800a600 600 0 01-1200 0z"/>
+    <path stroke="#000" fill="red" stroke-width="5" d="M-575-675H575V100A575 575 0 01-575 100ZM345 100 345-447-345-445V100A1 1 0 00345 100Z"/>
 
-    <path fill="#fff" stroke="#000" stroke-width="6.5"
-          d="M-600-700H600v800a600 600 0 01-1200 0z"/>
-    <path fill="red" stroke="#000" stroke-width="5" fill-rule="evenodd"
-          d="M-575-675H575v775a575 575 0 01-1150 0zm230 230h690v545a345 345 0 01-690 0z"/>
+    <path id="e" fill="#039" d="m-75-95h150v115a75 75 0 01-150 0zm75 95a1 1 0 000-30 1 1 0 000 30
+        m40-40a1 1 0 000-30 1 1 0 000 30m-80 0a1 1 0 000-30 1 1 0 000 30
+        m0 80a1 1 0 000-30 1 1 0 000 30m80 0a1 1 0 000-30 1 1 0 000 30"/>
+    <use y="-280" xlink:href="#e"/>
+    <use y="280" xlink:href="#e"/>
+    <use x="-210" xlink:href="#e"/>
+    <use x="210" xlink:href="#e"/>
 
-    <g id="escudete">
-        <path fill="#039" d="M-75-95H75V20a75 75 0 01-150 0z"/>
-        <g transform="translate(0 -15)">
-            <circle id="dot" r="15" fill="#fff"/>
-            <use x="-40" y="-40" xlink:href="#dot"/>
-            <use x="-40" y="40" xlink:href="#dot"/>
-            <use x="40" y="-40" xlink:href="#dot"/>
-            <use x="40" y="40" xlink:href="#dot"/>
-        </g>
-    </g>
+    <use y="-560" xlink:href="#k"/>
+    <use x="-465" y="-560" xlink:href="#k"/>
+    <use x="465" y="-560" xlink:href="#k"/>
+    <use x="-465" y="-92" xlink:href="#k"/>
+    <use x="465" y="-92" xlink:href="#k"/>
+    <use transform="rotate(-45 297.4 623.82)" xlink:href="#k"/>
+    <use transform="rotate(45 -297.4 623.82)" xlink:href="#k"/>
 
-    <use y="-280" xlink:href="#escudete"/>
-    <use y="280" xlink:href="#escudete"/>
-    <use x="-210" xlink:href="#escudete"/>
-    <use x="210" xlink:href="#escudete"/>
-    <use y="-560" xlink:href="#cast"/>
-    <use x="-465" y="-560" xlink:href="#cast"/>
-    <use x="465" y="-560" xlink:href="#cast"/>
-    <use x="-465" y="-92" xlink:href="#cast"/>
-    <use x="465" y="-92" xlink:href="#cast"/>
-    <use transform="rotate(-45 297.4 623.82)" xlink:href="#cast"/>
-    <use transform="rotate(45 -297.4 623.82)" xlink:href="#cast"/>
 </svg>
