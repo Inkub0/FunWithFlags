@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+<svg xmlns="http://www.w3.org/2000/svg"
      width="1900" height="1000" fill="#b22234">
     <pattern id="p" fill="#fff" x="-32" y="-27" width="126" height="108" patternUnits="userSpaceOnUse">
-        <path id="s" d="M30 0 48 54 1.2 20.4H58.8L12 54"/>
-        <use xlink:href="#s" transform="translate(63 54)"/>
+        <path d="M30 0 48 54 1.2 20.4H58.8L12 54"/>
+        <path d="M93 54 111 108 64.2 74.4H121.8L75 108"/>
     </pattern>
     <path d="M0 0h1900v1000H0z"/>
     <path stroke="#fff" stroke-width="76.9" d="M0 115h2000v154H-100v154h2100v154H-100v154h2100v153H0"/>
